@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #bccef8;
+}
+
+.menu-bg {
+  background-color: #98a8f8 !important;
+}
+
+.div-bg {
+  background-color: #bccef8;
+}
