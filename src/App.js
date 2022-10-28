@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <div className="container mt-md-5 mt-sm-4 border w-50 rounded menu-bg ">
-        <header className="d-flex p-md-3 menu-bg justify-content-center gap-5 ">
+        <header className="d-flex p-md-3 p-sm-2 menu-bg justify-content-center gap-5 flex-md-row flex-sm-column align-items-sm-center">
           <a href="#" className="text-decoration-none menu-bg text-black  ">
             Anasayfa
           </a>
